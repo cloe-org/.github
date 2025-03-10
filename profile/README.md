@@ -44,7 +44,7 @@ For more detailed guidelines, refer to the `CONTRIBUTING.md` file in each reposi
 
 - **Issues** – The best place to ask technical questions or report bugs for each project.  
 - **Discussions** – Use GitHub Discussions for broader conversations and brainstorming.  
-- **Contact us** – For general inquiries, you can reach any of the **cloe-org** maintainers by tagging @cloe-maintainers.
+- **Contact us** – For general inquiries, you can reach any of the **cloe-org** maintainers by tagging @cloe-org/cloe-maintainers in any issue/discussion.
 
 ## 📜 Licensing
 
