@@ -2,7 +2,7 @@
 
 Welcome to the **cloe-org** GitHub organization!
 
-![Static Badge](https://img.shields.io/badge/cloeorg-collaboration_guidelines-royalblue?link=https%3A%2F%2Fgithub.com%2Fcloe-org%2F.github%2Ftree%2Fdevelop%2Fcloprac)
+![Static Badge](https://img.shields.io/badge/cloeorg-collaboration_guidelines-royalblue?link=https%3A%2F%2Fgithub.com%2Fcloe-org%2F.github%2Ftree%2Fdevelop%2Fcolprac)
 
 
 We are a group of cosmologists, primarily members of the Euclid Consortium and other large-scale structure collaborations, dedicated to advancing cosmological statistical inference. Our main focus is on developing open-source software that enables the comparison of theoretical models with diverse cosmological datasets to derive robust statistical constraints. While our work is strongly motivated by the scientific goals of the Euclid mission, our tools and methods are designed to be broadly applicable across current and future cosmological experiments.
@@ -18,7 +18,7 @@ Our main repositories:
 | [cloelib](https://github.com/cloe-org/cloelib) | Computation of the theoretical predictions for Euclid primary observables |
 | [cloelike](https://github.com/cloe-org/cloelike) | Euclid likelihood module for photometric and spectroscopic primary observables |
 | [playground](https://github.com/cloe-org/playground) | Tutorials, examples and DEMO notebooks |
-| [darkflipper](https://github.com/cloe-org/playground) | Computation of Figure of Merit and Figure of Bias measurements |
+| [darkflipper](https://github.com/cloe-org/darkflipper) | Computation of Figure of Merit and Figure of Bias measurements |
 
 You can browse all our repositories [here](https://github.com/cloe-org).
 
@@ -29,7 +29,7 @@ We welcome contributions from everyone! If you're interested in collaborating or
 1. **Explore our repositories** – Check out the codebases and documentation.
 2. **Open an issue** – Found a bug, have a feature request, or need help? Open an issue in the respective repository.
 3. **Submit a pull request (PR)** – Contribute code, documentation, or improvements. Please follow the contribution guidelines provided in each repo.
-4. **Join discussions** – Engage with us in [Discussions](https://github.com/cloe-org/discussions) or raise questions in issues.
+4. **Join discussions** – Engage with us in [Discussions](https://github.com/orgs/cloe-org/discussions) or raise questions in issues.
 
 ## 📜 Contribution Guidelines
 
