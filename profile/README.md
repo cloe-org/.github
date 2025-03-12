@@ -20,7 +20,7 @@ Our main repositories:
 | [playground](https://github.com/cloe-org/playground) | Tutorials, examples and DEMO notebooks |
 | [darkflipper](https://github.com/cloe-org/darkflipper) | Computation of Figure of Merit and Figure of Bias measurements |
 
-You can browse all our repositories [here](https://github.com/cloe-org).
+You can browse all our repositories [here](https://github.com/orgs/cloe-org/repositories).
 
 ## 💡 How to Get Involved
 
