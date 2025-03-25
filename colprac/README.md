@@ -100,5 +100,5 @@ To fix it, I revert the change, and then tag release v1.15.1.
 Hopefully, I can also add a test to prevent that part of the API from being broken by mistake.
 
 Now I look at my change again.
-If I can add the same functionality in a non-breaking way - for example, make a new internal function for my use - then I would do so and tag v1.15.2 or v1.16.0 depending on what had to change.Bu
+If I can add the same functionality in a non-breaking way - for example, make a new internal function for my use - then I would do so and tag v1.15.2 or v1.16.0 depending on what had to change.
 If I cannot make an equivalent non-breaking change, then I would have to make the breaking change and tag v2.0.0.
