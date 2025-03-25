@@ -50,7 +50,7 @@ Anything detailed here should be considered less important than the main Collabo
 *   PRs with large improvements to style should not also change functionality.
 
 *   PRs introducing breaking changes should make this clear when opening the PR.
-*   You should not push commits with commented-out tests.
+*   You should not push commits with commented-out code.
     *   Commenting out tests while developing locally is okay, but committing a commented-out test increases the risk of it silently not being run when it should be.
 *   You should not squash down commits while review is still ongoing.
 
