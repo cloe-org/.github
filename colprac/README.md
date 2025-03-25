@@ -15,7 +15,7 @@ This document facilitates these other good practices by clarifying what can seem
 *   Comments and (possibly internal) docstrings should make the code easy to understand and work with..
 *   PRs that change code must have appropriate tests.
 *   Changes to the code must be made via PR, not pushing to master.
-*   Before starting to work on a PR, especially when including or modifying a huge chunk of code, discuss with the mantainers the change you are gonna implement and how.
+*   Before starting to work on a PR, especially when including or modifying a huge chunk of code, discuss with the mantainers the change you are gonna implement and how. The list of mantainers of each repo is listed in the repo README.
 
 #### Reviewing, Approving, and Merging PRs
 
