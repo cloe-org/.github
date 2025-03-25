@@ -72,7 +72,7 @@ Anything detailed here should be considered less important than the main Collabo
 
 ### Accidental breaking releases
 
-**Do not panic**, these things sometimes slip through.
+This section of the guidelines is specifically meant for the mantainers only.
 
 It is important to fix it **as soon as possible**, as otherwise people start using the breaking change, and reverting it later causes more problems (c.f.[ Murphy's law](https://en.wikipedia.org/wiki/Murphy%27s_law)).
 
