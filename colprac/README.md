@@ -61,12 +61,14 @@ Anything detailed here should be considered less important than the main Collabo
 
 ## Guidance on reviewing PRs
 
-*   Review comments should be phrased as questions, as it shows you are open to new ideas.
+* Review comments should be phrased as questions to encourage open dialogue. For example, "Why did you change this to X? How does it affect Y?"
 
-    *   For instance, “Why did you change this to X? Doesn’t that prevent Y?” rather than “You should not have changed this, it will prevent Y”.
-*   Small review suggestions, such as typo fixes, should make use of the `suggested change` feature.
-    *   This makes it easier and more likely for all the smaller changes to be made.
-*   Reviewers should continue acting as reviewers until the PR is merged.
+* Use the suggested change feature for small fixes like typos to streamline the process.
+
+* Reviewers should remain engaged until the PR is merged.
+
+* The PR process is a conversation to improve code. Developers should justify their choices, and reviewers should seek clarification when needed. Both parties should approach feedback constructively and collaboratively, as the final gola of the PR is to have it merged.
+
 
 ### Accidental breaking releases
 
