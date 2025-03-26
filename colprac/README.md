@@ -10,7 +10,7 @@ The goal of this document is to clarify the review process, thereby facilitating
 *   PRs affecting the public API, including adding new features, must update the public documentation.
 *   Comments and (possibly internal) docstrings should make the code easy to understand and work with..
 *   PRs that change code must have appropriate tests.
-*   Changes to the code must be made via PR, not pushing to master.
+*   Changes to the code must be made via PR, not pushing to main.
 *   Before starting to work on a PR, especially when including or modifying a huge chunk of code, discuss with the mantainers the change you are gonna implement and how. The list of mantainers of each repo is listed in the repo README.
 
 #### Reviewing, Approving, and Merging PRs
