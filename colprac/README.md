@@ -1,12 +1,8 @@
 # Contributor's Guide on Collaborative Practices for cloe-org repositories
 
-This document describes some best practices for collaborating on the cloe-org repositories.
-Following these practices makes it easier for contributors (new and old) to understand what is expected of them.
-It should be linked to in the README.md. Those are meant to be general guidelines; it is possible that some repositories have additional guidelines.
+This document outlines best practices for collaborating within the cloe-org repositories. By following these guidelines, both new and experienced contributors can clearly understand what is expected of them. It should be linked in the README.md file as a central reference, though some repositories will include additional requirements.
 
-There are many good practices that this document does not cover.
-These include other members of the wider community reviewing pull requests (PRs) they are interested in, and maintainers encouraging and supporting people who open issues to make PRs to solve them.
-This document facilitates these other good practices by clarifying what can seem like a mysterious process to those who are unfamiliar with it.
+The goal of this document is to clarify the review process, thereby facilitating it.
 
 #### Contributing PRs
 
