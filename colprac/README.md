@@ -15,12 +15,12 @@ The goal of this document is to clarify the review process, thereby facilitating
 
 #### Reviewing, Approving, and Merging PRs
 
+The merging of a PR is in charge of the mantainers of the repository. Mantainers have to check both that the PR is implementing unit tests and docs as appropriate and, most importantly, how the global architecture is affected by the new code. Also, in case of PRs happening in parallel, mantainers will coordinate them, such that we develop and merge PRs in the right order to minimize the amount of effort needed.
+
 *   PRs must have 1 approval before they are merged.
 *   PR authors should not approve their own PRs.
 *   PRs should pass CI tests before being merged.
-*   PRs by people __without__ merge rights must have approval from someone who has merge rights (who will usually then merge the PR).
-*   PRs by people __with__ merge rights must have approval from someone else, who may or may not have merge rights (and then may merge their own PR).
-*   PRs by people with merge rights should not be merged by people other than the author (just approved).
+* All PRs must be approved by someone with merge rights, even if the submitter already has them.
 
 #### Releases
 
