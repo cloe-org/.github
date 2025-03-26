@@ -63,7 +63,7 @@ Anything detailed here should be considered less important than the main Collabo
 
 * Reviewers should remain engaged until the PR is merged.
 
-* The PR process is a conversation to improve code. Developers should justify their choices, and reviewers should seek clarification when needed. Both parties should approach feedback constructively and collaboratively, as the final gola of the PR is to have it merged.
+* The PR process is a conversation to improve code. Developers should justify their choices, and reviewers should seek clarification when needed. Both parties should approach feedback constructively and collaboratively, as the final goal of the PR is to have it merged.
 
 
 ### Accidental breaking releases
