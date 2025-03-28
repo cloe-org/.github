@@ -29,6 +29,7 @@ The responsibility for merging a PR lies with the maintainers of the repository.
 *   A release should be created as soon as possible following the merge of a bugfix PR.
 *   Care and consideration should be exercised when deciding the timing of a breaking release.
 *   The individual who merged the PR should be responsible for registering the new release of the package.
+*   Version naming conventions adhere to Semantic Versioning ([semver](https://semver.org/)) principles.
 
 ---
 
