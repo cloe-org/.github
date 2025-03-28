@@ -1,59 +1,60 @@
 # Contributor's Guide on Collaborative Practices for cloe-org repositories
 
-This document outlines best practices for collaborating within the cloe-org repositories. By following these guidelines, both new and experienced contributors can clearly understand what is expected of them. It should be linked in the README.md file as a central reference, though some repositories will include additional requirements.
+This document outlines the best practices for collaborating within the cloe-org repositories. By adhering to these guidelines, both new and experienced contributors can gain a clear understanding of what is expected of them. It should be linked in the README.md file as a central reference, although some repositories may include additional requirements.
 
-The goal of this document is to clarify the review process, thereby facilitating it.
+The purpose of this document is to provide clarity on the review process, thereby streamlining and facilitating it.
 
 #### Contributing PRs
 
-*   PRs should match the existing code style present in the file.
-*   PRs affecting the public API, including adding new features, must update the public documentation.
-*   Comments and (possibly internal) docstrings should make the code easy to understand and work with..
-*   PRs that change code must have appropriate tests.
-*   Changes to the code must be made via PR, not pushing to main.
-*   Before starting to work on a PR, especially when including or modifying a huge chunk of code, discuss with the mantainers the change you are gonna implement and how. The list of mantainers of each repo is listed in the repo README.
+*   PRs should adhere to the existing code style present in the file.
+*   PRs affecting the public API, including the addition of new features, must update the public documentation.
+*   Comments and (potentially internal) docstrings should enhance the code's readability and ease of use.
+*   PRs that modify code must include appropriate tests.
+*   Changes to the code must be implemented via PR, not by pushing directly to the main branch.
+*   Before initiating work on a PR, especially when incorporating or modifying a substantial portion of code, discuss the proposed changes and implementation approach with the maintainers. The list of maintainers for each repository is provided in the respective repo's README.
 
 #### Reviewing, Approving, and Merging PRs
 
-The merging of a PR is in charge of the mantainers of the repository. Mantainers have to check both that the PR is implementing unit tests and docs as appropriate and, most importantly, how the global architecture is affected by the new code. Also, in case of PRs happening in parallel, mantainers will coordinate them, such that we develop and merge PRs in the right order to minimize the amount of effort needed.
+The responsibility for merging a PR lies with the maintainers of the repository. Maintainers must verify that the PR implements appropriate unit tests and documentation, and more crucially, assess how the new code impacts the global architecture. Additionally, in cases of concurrent PRs, maintainers will coordinate their development and merging to optimize the workflow and minimize the required effort.
 
-*   PRs must have 1 approval before they are merged.
-*   PR authors should not approve their own PRs.
-*   PRs should pass CI tests before being merged.
-* All PRs must be approved by someone with merge rights, even if the submitter already has them.
+*   PRs must receive at least one approval before they can be merged.
+*   PR authors should refrain from approving their own PRs.
+*   PRs should successfully pass CI tests prior to merging.
+*   All PRs must be approved by an individual with merge rights, even if the submitter already possesses such privileges.
+
+---
 
 #### Releases
 
-*   A release should be made as soon as possible after a bugfix PR is merged.
-*   Care and consideration should be given as to when to make a breaking release.
-*   The person who merged the PR should register the new release of the package.
+*   A release should be created as soon as possible following the merge of a bugfix PR.
+*   Care and consideration should be exercised when deciding the timing of a breaking release.
+*   The individual who merged the PR should be responsible for registering the new release of the package.
 
 ---
 
 # ColPrac: Further Guidance
 
-This page offers some further guidance on conventions that can be helpful when collaborating on projects.
-This is an expansion on the Collaborative Practices, with more details and extra guidance.
-Anything detailed here should be considered less important than the main Collaborative Practices.
+This page provides additional guidance on conventions that can be useful when collaborating on projects. It serves as an expansion of the Collaborative Practices, offering more detailed information and extra guidance. Any details outlined here should be considered secondary in importance to the main Collaborative Practices.
 
 ## Guidance on contributing PRs
 
-*   You should usually open an issue about a bug or possible improvement before opening a PR with a solution.
-*   PRs should do a single thing, so that they are easier to review.
-    *   For example, fix one bug, or update compatibility, rather than fixing a bunch of bugs, and updating compatibility, and adding a new feature.
-*   PRs should add tests which cover the new or fixed functionality.
+*   You should typically open an issue regarding a bug or potential improvement before submitting a PR with a solution.
+*   PRs should focus on a single task to facilitate easier review.
+    *   For example, fix one bug, update compatibility, or add a new feature, rather than combining multiple tasks in one PR.
+*   PRs should include tests that cover the new or fixed functionality.
 
-*   PRs with large improvements to style should not also change functionality.
+*   PRs implementing large-scale style improvements should not simultaneously alter functionality.
 
-*   PRs introducing breaking changes should make this clear when opening the PR.
-*   You should not push commits with commented-out code.
-    *   Commenting out tests while developing locally is okay, but committing a commented-out test increases the risk of it silently not being run when it should be.
-*   You should not squash down commits while review is still ongoing.
+*   PRs introducing breaking changes should clearly indicate this when opening the PR.
+*   You should avoid pushing commits with commented-out code.
+    *   While commenting out tests during local development is acceptable, committing a commented-out test increases the risk of it being inadvertently ignored when it should be run.
+*   You should refrain from squashing commits while the review process is ongoing.
 
-    *   Squashing commits prevents the reviewer from seeing what commits have been added since the last review.
-*   You should help __review__ your PRs, even though you cannot __approve__ your own PRs.
+    *   Squashing commits prevents reviewers from identifying which commits have been added since the last review.
+* You should assist in the __review__ of your PRs, even though you cannot __approve__ your own PRs.
 
-    *   For instance, start the review process by commenting on why certain bits of the code changed, or highlighting places where you would particularly like reviewer feedback.
+    *   For instance, initiate the review process by commenting on the rationale behind certain code changes, or highlighting areas where you particularly seek reviewer feedback.
+
 
 ## Guidance on reviewing PRs
 
@@ -63,14 +64,13 @@ Anything detailed here should be considered less important than the main Collabo
 
 * Reviewers should remain engaged until the PR is merged.
 
-* The PR process is a conversation to improve code. Developers should justify their choices, and reviewers should seek clarification when needed. Both parties should approach feedback constructively and collaboratively, as the final goal of the PR is to have it merged.
-
+* The PR process is a conversation aimed at improving code. Developers should justify their choices, and reviewers should seek clarification when needed. Both parties should approach feedback constructively and collaboratively, as the ultimate goal of the PR is to have it merged.
 
 ### Accidental breaking releases
 
-This section of the guidelines is specifically meant for the mantainers only.
+This section of the guidelines is specifically meant for the maintainers only.
 
-It is important to fix it **as soon as possible**, as otherwise people start using the breaking change, and reverting it later causes more problems (c.f.[ Murphy's law](https://en.wikipedia.org/wiki/Murphy%27s_law)).
+It is important to fix breaking changes **as soon as possible**, as otherwise people start using the breaking change, and reverting it later causes more problems (c.f. [Murphy's law](https://en.wikipedia.org/wiki/Murphy%27s_law)).
 
 To fix it:
 
