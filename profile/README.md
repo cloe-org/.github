@@ -2,7 +2,7 @@
 
 Welcome to the **cloe-org** GitHub organization!
 
-[![Static Badge](https://img.shields.io/badge/cloeorg-collaboration_guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/develop/colprac)](https://github.com/cloe-org/.github/tree/develop/colprac)
+[![Static Badge](https://img.shields.io/badge/cloeorg-collaboration_guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/develop/colprac)](https://github.com/cloe-org/.github/tree/main/colprac)
 
 
 We are a group of cosmologists, primarily members of the Euclid Consortium and other large-scale structure collaborations, dedicated to advancing cosmological statistical inference. Our main focus is on developing open-source software that enables the comparison of theoretical models with diverse cosmological datasets to derive robust statistical constraints. While our work is strongly motivated by the scientific goals of the Euclid mission, our tools and methods are designed to be broadly applicable across current and future cosmological experiments.
