@@ -32,15 +32,7 @@ We welcome contributions from everyone! If you're interested in collaborating or
 
 ## 📜 Contribution Guidelines
 
-Each repository may have its own specific contribution guidelines, but here are some general principles:
-
-- Follow the **contribution guidelines** defined in each repository.
-- Write clear and concise commit messages.
-- If submitting code, make sure it follows the project’s style guides.
-- Keep PRs small and focused.
-- Provide detailed descriptions when submitting PRs or opening issues.
-
-For more detailed guidelines, refer to the `CONTRIBUTING.md` file in each repository.
+Each repository may have its own specific contribution guidelines, but you can find general principles [here](https://github.com/cloe-org/.github/tree/main/colprac).
 
 ## 💬 Communication
 
