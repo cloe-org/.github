@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/cloeorg-collaboration_guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/develop/colprac)](https://github.com/cloe-org/.github/tree/main/colprac)
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-cloe--org- brightgreen.svg)](https://zenodo.org/communities/cloe-org/)
+[![Zenodo](https://img.shields.io/badge/Zenodo-cloe--org-brightgreen.svg)](https://zenodo.org/communities/cloe-org/)
 
 Welcome to the *cloe-org* GitHub organization — your hub for cosmological modeling and statistical inference focused on large-scale structure.
 
