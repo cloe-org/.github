@@ -30,7 +30,7 @@ We welcome contributions from everyone! If you're interested in collaborating or
 3. **Submit a pull request (PR)** – Contribute code, documentation, or improvements. Please follow the contribution guidelines provided in each repo.
 4. **Join discussions** – Engage with us in [Discussions](https://github.com/orgs/cloe-org/discussions) or raise questions in issues.
 
-## 📜 Contribution Guidelines
+## 🤝 Contribution Guidelines
 
 Each repository may have its own specific contribution guidelines, but you can find general principles [here](https://github.com/cloe-org/.github/tree/main/colprac).
 
@@ -42,7 +42,7 @@ Each repository may have its own specific contribution guidelines, but you can f
 
 ## 📜 Licensing
 
-All our projects are licensed under GNU General Public License unless stated otherwise. Check the individual repository's license for more details.
+All our projects are licensed under MIT unless stated otherwise. Check the individual repository's license for more details.
 
 ## ⭐ Support Us
 
@@ -53,4 +53,4 @@ If you like what we're doing:
 - 🚀 Contribute or collaborate
 - 📖 Use our codes and kindly cite our main publications.
 
-Thank you for being part of **cloe-org**!
+
