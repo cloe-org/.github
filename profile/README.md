@@ -34,7 +34,7 @@ We welcome contributions from everyone! If you're interested in collaborating or
 
 Each repository may have its own specific contribution guidelines, but you can find general principles [here](https://github.com/cloe-org/.github/tree/main/colprac).
 
-The `cloelib` and `cloelike` repositories follow the [All Contributors](https://allcontributors.org/) approach to recognize all types of contributions.
+The `cloelib`, `cloelike` and `playground` repositories follow the [All Contributors](https://allcontributors.org/) approach to recognize all types of contributions.
 
 You can find the list of contributors in the README files of each repository.
 
