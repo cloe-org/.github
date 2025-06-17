@@ -36,9 +36,7 @@ Each repository may have its own specific contribution guidelines, but you can f
 
 The `cloelib`, `cloelike` and `playground` repositories follow the [All Contributors](https://allcontributors.org/) approach to recognize all types of contributions.
 
-You can find the list of contributors in the README files of each repository.
-
-This helps us acknowledge everyone who contributes, whether through code, documentation, bug reports, or other support.
+You can find the list of contributors in the README files of each repository. This helps us acknowledge everyone who contributes, whether through code, documentation, bug reports, or other support.
 
 ## 💬 Communication
 
