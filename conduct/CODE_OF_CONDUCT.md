@@ -1,130 +1,113 @@
-# Contributor Covenant Code of Conduct
+# ✨ Contributor Covenant Code of Conduct
 
-## Our Pledge
+## 💪 Our Commitment
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+We — as contributors, maintainers, members, and organisation owners — **commit to making this community a respectful, inclusive, and harassment-free space** for everyone. That means **everyone**: regardless of age, appearance, disability (visible or not), gender identity or expression, experience level, nationality, race, religion, sexual orientation, or socio-economic background.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We are especially committed to uplifting those historically underrepresented in tech and science — including **women, LGBTQIA+ folks, people of color, people with disabilities, and early-career researchers**.
 
-## Our Standards
+We pledge to:
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+🌈 Foster an open, welcoming, diverse, and kind community  
+🤝 Collaborate with empathy and humility  
+🚫 Stand firmly against discrimination, harassment, and exclusionary behavior  
+🌱 Create a space where people can learn, grow, and thrive together  
 
-* Demonstrating empathy and kindness toward other people  
-* Being respectful of differing opinions, viewpoints, and experiences  
-* Giving and gracefully accepting constructive feedback  
-* Accepting responsibility and apologizing to those affected by our mistakes,  
-  and learning from the experience  
-* Focusing on what is best not just for us as individuals, but for the  
-  overall community  
+---
 
-Examples of unacceptable behavior include:
+## 🤝 Inclusive Behavior
 
-* The use of sexualized language or imagery, and sexual attention or  
-  advances of any kind  
-* Trolling, insulting or derogatory comments, and personal or political attacks  
-* Public or private harassment  
-* Publishing others' private information, such as a physical or email  
-  address, without their explicit permission  
-* Other conduct which could reasonably be considered inappropriate in a  
-  professional setting  
+We welcome and encourage:
 
-## Enforcement Responsibilities
+- 🗣️ Respectful and inclusive language  
+- 💖 Empathy and kindness toward all community members  
+- 🛠️ Constructive feedback given with care  
+- 🧠 Acknowledging and learning from mistakes  
+- 🌍 Encouraging diverse voices and perspectives  
+- 🙋 Asking for and offering help thoughtfully  
+- 🚀 Supporting newcomers and lifelong learners  
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+---
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+## 🚫 Unacceptable Behavior
 
-## Scope
+The following behaviors **will not be tolerated**:
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+- Harassment of any kind (online or offline), including:  
+  - Offensive or derogatory comments related to gender, sexuality, race, religion, disability, or identity  
+  - Sexualized language, images, or unwanted attention  
+  - Deliberate misgendering or deadnaming  
+  - Intimidation, stalking, or persistent disruption  
+- Talking over, dismissing, or ridiculing people—especially targeting those who are junior, less experienced, or from underrepresented groups. Such behavior is a clear abuse of power and undermines our mission of inclusion and respect.  
+- Stereotyping someone’s skills, knowledge, or interests  
+- Gatekeeping or elitism  
+- Retaliation against anyone reporting an issue  
 
-> **Note**: Euclid Consortium members must also adhere to the [Euclid Consortium Code of Conduct](https://euclid.roe.ac.uk/dmsf/files/13901/view), which governs behavior within the Euclid collaboration and its related activities.
+---
 
-## Enforcement
+## ⚖️ Power Dynamics
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-cloe-org@strw.leidenuniv.nl.  
-All complaints will be reviewed and investigated promptly and fairly.
+We recognize power imbalances exist — from leadership roles, experience, or expertise. In our multidisciplinary community, all contributions matter, whether in coding, physics, astronomy, communication, or infrastructure.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Leaders and mentors must set the highest standards for respect, inclusion, and support. Abuse of power in tone, language, gatekeeping, or decisions **undermines our mission**.
 
-## Enforcement Guidelines
+We deeply value and support junior and early-career members. No one should feel dismissed or underestimated because of their experience. Everyone’s growth and expertise are essential and respected.  
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+---
 
-### 1. Correction
+## 📢 Reporting and Enforcement
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.  
+If you witness or experience unacceptable behavior, please report immediately to:
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+📧 **cloe-org@strw.leidenuniv.nl**  
+📧 Or contact any cloe-org maintainer directly.
 
-### 2. Warning
+We treat all reports with discretion and seriousness. We will:
 
-**Community Impact**: A violation through a single incident or series
-of actions.  
+- Investigate fairly and promptly  
+- Prioritize safety and privacy  
+- Take corrective action up to permanent exclusion  
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+Retaliation against reporters or helpers **will not be tolerated**.  
 
-### 3. Temporary Ban
+---
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.  
+## 🚦 Enforcement Guidelines
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+Consequences depend on community impact and severity:
 
-### 4. Permanent Ban
+### 1. Correction  
+**Impact:** Minor or unintentional harm  
+**Action:** Private conversation to clarify and guide  
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.  
+### 2. Warning  
+**Impact:** Clear violation  
+**Action:** Formal warning with behavioral expectations and probation  
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+### 3. Temporary Ban  
+**Impact:** Serious or repeated violations  
+**Action:** Temporary exclusion from community spaces  
 
-## Attribution
+### 4. Permanent Ban  
+**Impact:** Severe or sustained harmful behavior  
+**Action:** Permanent removal and revoked access  
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at  
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+---
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+## 🌐 Scope
 
-[homepage]: https://www.contributor-covenant.org
+This Code applies everywhere we interact — online or offline — including meetings, mailing lists, repos, chats, social media, and external events representing the community.
 
-For answers to common questions about this code of conduct, see the FAQ at  
-https://www.contributor-covenant.org/faq. Translations are available at  
-https://www.contributor-covenant.org/translations.
+> **Note:** Euclid Consortium members must also follow the [Euclid Consortium Code of Conduct](https://euclid.roe.ac.uk/dmsf/files/13901/view).
+
+---
+
+## 📜 Attribution
+
+Adapted from:
+
+- [Contributor Covenant v2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)  
+- [Geek Feminism Community Anti-Harassment Policy](https://geekfeminism.fandom.com/wiki/Community_anti-harassment/Policy)  
+
+*Translations and accessible versions available on request.*
+
