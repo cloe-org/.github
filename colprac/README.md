@@ -4,6 +4,17 @@ This document outlines the best practices for collaborating within the cloe-org 
 
 The purpose of this document is to provide clarity on the review process, thereby streamlining and facilitating it.
 
+#### General guidelines on versioning and collaborating with `git`
+
+The repositories in this organisation use `git` for versioning. There are many online resources to learn and master `git` (e.g. [Git Real](https://www.pluralsight.com/courses/code-school-git-real) and [Git Real 2](https://www.pluralsight.com/courses/code-school-git-real-2) by Pluralsight - formerly Coursera). We use something similar to [GitHub Flow](https://githubflow.github.io) to version and collaborate on our repos. Please read below for more details on our implementation of this approach. 
+
+A few important `git` things to keep in mind as a developer:
+*   Commit often, push carefully. `git pull --rebase` first. 
+*   Use `git status` often.
+*   Develop on a well-named branch out of `main`.
+*   Avoid long-lived branches - use PRs (see below) to resolve them frequently for specific tasks.
+*   Do not `git add` files that will bloat the repo! This includes data files, binaries like images, compressed files. The most common file extensions should be automatically ignored, but you can never be too careful.
+
 #### Contributing PRs
 
 *   PRs should adhere to the existing code style present in the file.
