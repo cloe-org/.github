@@ -1,6 +1,8 @@
 # cloe-org
 
-[![Static Badge](https://img.shields.io/badge/cloeorg-collaboration_guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/develop/colprac)](https://github.com/cloe-org/.github/tree/main/colprac) [![Zenodo](https://img.shields.io/badge/Zenodo-cloe--org-brightgreen.svg)](https://zenodo.org/communities/cloe-org/)
+[![Contribution Guidelines](https://img.shields.io/badge/cloeorg-Collaboration_Guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/main/colprac)](https://github.com/cloe-org/.github/tree/main/colprac) 
+[![Code of Conduct](https://img.shields.io/badge/cloeorg-Code_of_Conduct-royalblue?link=https://github.com/cloe-org/.github/blob/1-include-code-of-conduct-in-readme/conduct/CODE_OF_CONDUCT.md)](https://github.com/cloe-org/.github/blob/1-include-code-of-conduct-in-readme/conduct/CODE_OF_CONDUCT.md)
+[![Zenodo](https://img.shields.io/badge/Zenodo-cloe--org-brightgreen.svg)](https://zenodo.org/communities/cloe-org/)
 
 Welcome to the *cloe-org* GitHub organization — your hub for cosmological modeling and statistical inference focused on large-scale structure.
 
@@ -30,6 +32,17 @@ We welcome contributions from everyone! If you're interested in collaborating or
 3. **Submit a pull request (PR)** – Contribute code, documentation, or improvements. Please follow the contribution guidelines provided in each repo.
 4. **Join discussions** – Engage with us in [Discussions](https://github.com/orgs/cloe-org/discussions) or raise questions in issues.
 
+## ⚖️ Code of Conduct Compliance
+
+All members, contributors, and maintainers of the cloe-org organization are required to adhere to our [Code of Conduct](https://github.com/cloe-org/.github/blob/1-include-code-of-conduct-in-readme/conduct/CODE_OF_CONDUCT.md).
+
+By participating in any of our projects, discussions, or events—whether online or offline—you agree to uphold the principles of respect, inclusion, and professionalism outlined in the Code of Conduct.
+
+This commitment ensures a safe, welcoming, and productive environment for everyone in our community, regardless of background, experience level, or identity.
+
+Failure to comply with the Code of Conduct may result in corrective actions as described in the document, including but not limited to warnings, temporary bans, or removal from the community.
+
+
 ## 🤝 Contribution Guidelines
 
 Each repository may have its own specific contribution guidelines, but you can find general principles [here](https://github.com/cloe-org/.github/tree/main/colprac).
@@ -56,5 +69,3 @@ If you like what we're doing:
 - 💬 Spread the word
 - 🚀 Contribute or collaborate
 - 📖 Use our codes and kindly cite our main publications.
-
-
