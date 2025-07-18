@@ -4,7 +4,7 @@
 
 We — contributors, maintainers, members, and organization owners — **commit to making this community a respectful, inclusive, and harassment-free space** for everyone. That means **everyone**: regardless of age, appearance, disability (visible or not), gender identity or expression, experience level, nationality, race, religion, political and/or sexual orientation, or socio-economic background.
 
-We are especially committed to uplifting those historically underrepresented in tech and science — including **women, LGBTQIA+ people, people of color, people with disabilities, and early-career researchers**.
+We are especially committed to uplifting those historically underrepresented in tech and science — including **women, LGBTQIA+ people, people of color, people with disabilities, and early-career scientists**.
 
 We pledge to:
 
