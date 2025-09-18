@@ -61,28 +61,30 @@ You can find the list of contributors in the README files of each repository. Th
 
 All our projects are licensed under MIT unless stated otherwise. Check the individual repository's license for more details.
 
-## ⭐ Supporting Institutions
+## ⭐ Supporting Institutions  
 
-The development of **cloe-org** software is made possible thanks to the support of several institutions and collaborations:
+The development of **cloe-org** software is proudly powered by the support of all around the world institutions and collaborations.  
+*(Logos © belong to their respective institutions)*  
 
 <p align="center">
   <a href="http://www.inaf.it/en">
-    <img src="logos/INAF.png" alt="INAF" height="60">
+    <img src="logos/INAF.png" alt="INAF" height="70">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://www.ifpu.it">
-    <img src="logos/IFPU.png" alt="IFPU" height="60">
+    <img src="logos/IFPU.png" alt="IFPU" height="70">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://www.inaf.it/en">
-    <img src="logos/observatorioastronomicodibrera.png" alt="observatorioastronomicodibrera" height="60">
+    <img src="logos/observatorioastronomicodibrera.png" alt="Observatorio Astronomico di Brera" height="70">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-If you like what we're doing:
+---
 
-- 🌟 Star our repositories
-- 💬 Spread the word
-- 🚀 Contribute or collaborate
-- 📖 Use our codes and kindly cite our main publications.
+✨ **Love our work? Here’s how you can help keep it growing:**  
+- 🌟 **Star** our repositories  
+- 💬 **Spread the word** in your network  
+- 🚀 **Contribute** with code, ideas, or collaborations  
+- 📖 **Use & cite** our software in your research  
+
