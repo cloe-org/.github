@@ -70,6 +70,14 @@ The development of **cloe-org** software is made possible thanks to the support 
     <img src="logos/INAF.png" alt="INAF" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.ifpu.it">
+    <img src="logos/IFPU.png" alt="IFPU" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.inaf.it/en">
+    <img src="logos/observatorioastronomicodibrera.png" alt="observatorioastronomicodibrera" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 If you like what we're doing:
