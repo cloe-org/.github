@@ -61,7 +61,27 @@ You can find the list of contributors in the README files of each repository. Th
 
 All our projects are licensed under MIT unless stated otherwise. Check the individual repository's license for more details.
 
-## ⭐ Support Us
+## ⭐ Supporting Institutions
+
+The development of **cloe-org** software is made possible thanks to the support of several institutions and collaborations:
+
+<p align="center">
+  <a href="https://www.esa.int/">
+    <img src="assets/logos/esa.png" alt="ESA" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.euclid-ec.org/">
+    <img src="assets/logos/euclid.png" alt="Euclid Consortium" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.universiteitleiden.nl/en/science/astronomy">
+    <img src="assets/logos/leiden.png" alt="Leiden Observatory" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cosmostat.ias.u-psud.fr/">
+    <img src="assets/logos/ias.png" alt="IAS / CosmoStat" height="60">
+  </a>
+</p>
 
 If you like what we're doing:
 
