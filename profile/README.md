@@ -1,7 +1,7 @@
 # cloe-org
 
 [![Contribution Guidelines](https://img.shields.io/badge/cloeorg-Collaboration_Guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/main/colprac)](https://github.com/cloe-org/.github/tree/main/colprac) 
-[![Code of Conduct](https://img.shields.io/badge/cloeorg-Code_of_Conduct-royalblue?link=https://github.com/cloe-org/.github/blob/1-include-code-of-conduct-in-readme/conduct/CODE_OF_CONDUCT.md)](https://github.com/cloe-org/.github/blob/1-include-code-of-conduct-in-readme/conduct/CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/cloeorg-Code_of_Conduct-royalblue?link=https://github.com/cloe-org/.github/blob/1-include-code-of-conduct-in-readme/conduct/CODE_OF_CONDUCT.md)]([https://github.com/cloe-org/.github/blob/1-include-code-of-conduct-in-readme/conduct/CODE_OF_CONDUCT.md](https://github.com/cloe-org/.github/blob/main/conduct/CODE_OF_CONDUCT.md))
 [![Zenodo](https://img.shields.io/badge/Zenodo-cloe--org-brightgreen.svg)](https://zenodo.org/communities/cloe-org/)
 
 Welcome to the *cloe-org* GitHub organization — your hub for cosmological modeling and statistical inference focused on large-scale structure.
@@ -34,7 +34,7 @@ We welcome contributions from everyone! If you're interested in collaborating or
 
 ## ⚖️ Code of Conduct Compliance
 
-All members, contributors, and maintainers of the cloe-org organization are required to adhere to our [Code of Conduct](https://github.com/cloe-org/.github/blob/1-include-code-of-conduct-in-readme/conduct/CODE_OF_CONDUCT.md).
+All members, contributors, and maintainers of the cloe-org organization are required to adhere to our [Code of Conduct](https://github.com/cloe-org/.github/blob/main/conduct/CODE_OF_CONDUCT.md).
 
 By participating in any of our projects, discussions, or events—whether online or offline—you agree to uphold the principles of respect, inclusion, and professionalism outlined in the Code of Conduct.
 
