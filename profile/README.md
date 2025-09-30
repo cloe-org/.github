@@ -78,6 +78,14 @@ The development of **cloe-org** software is proudly powered by the support of al
   <a href="http://www.inaf.it/en">
     <img src="logos/observatorioastronomicodibrera.png" alt="Observatorio Astronomico di Brera" height="70">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.inaf.it/en">
+    <img src="logos/logo-univ-leidenobservatory.png" alt="Leiden Observatory" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.inaf.it/en">
+    <img src="logos/universityofwaterloo_logo_horiz_rgb_1.jpg" alt="University of Waterloo" height="70">
+  </a>
 </p>
 
 ---
