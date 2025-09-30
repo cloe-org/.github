@@ -100,6 +100,10 @@ The development of **cloe-org** software is proudly powered by the support of al
   <a href="https://uwaterloo.ca/astrophysics-centre/">
     <img src="logos/universityofwaterloo_logo_horiz_rgb_1.jpg" alt="University of Waterloo" height="70">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.herts.ac.uk">
+    <img src="logos/Black-Logo.png" alt=" University of Hertfordshire" height="70">
+  </a>
 </p>
 
 *(Logos © belong to their respective institutions)* 
