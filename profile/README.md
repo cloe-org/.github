@@ -10,6 +10,15 @@ We are a group of cosmologists, primarily members of the Euclid Consortium and o
 
 Our team previously contributed to the development of **CLOE** (Cosmology Likelihood for Observables in Euclid). Building on the expertise gained from that experience, we are now developing a new generation of CLOE-inspired software aimed at maximizing the scientific return of upcoming cosmological surveys. Our goal is to facilitate a seamless interface between theoretical predictions and data analysis, fostering accessibility and collaboration within the broader cosmology community.
 
+**Current list of cloe-org maintainers** include (in alphabetical order):
+
+- [G. Cañas-Herrera](https://github.com/gcanasherrera)
+- [P. Carrilho](https://github.com/PedroCarrilho)
+- [S. Casas](https://github.com/santiagocasas)
+- [M. Bonici](https://github.com/marcobonici)
+- [C. Moretti](https://github.com/chiaramoretti)
+- [A. Pezzotta](https://github.com/AndreaPezzotta)
+
 ## 📂 Repositories
 
 Our main repositories:
@@ -61,11 +70,11 @@ You can find the list of contributors in the README files of each repository. Th
 
 All our projects are licensed under MIT unless stated otherwise. Check the individual repository's license for more details.
 
-## ⭐ Supporting Institutions  
+## ⭐ Supporting Partners  
 
 The development of **cloe-org** software is proudly powered by the support of all around the world research institutions and collaborations.
 
-- @gcanasherrera acknowledges support through the [European Space Agency research fellowship programme](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships).
+- [Dr. G. Cañas-Herrera](https://gcanasherrera.com) acknowledges support through the [European Space Agency research fellowship programme](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships).
 
 <p align="center">
   <a href="http://www.esa.int/en">
