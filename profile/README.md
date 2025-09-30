@@ -63,8 +63,9 @@ All our projects are licensed under MIT unless stated otherwise. Check the indiv
 
 ## ⭐ Supporting Institutions  
 
-The development of **cloe-org** software is proudly powered by the support of all around the world institutions and collaborations.  
-*(Logos © belong to their respective institutions)*  
+The development of **cloe-org** software is proudly powered by the support of all around the world research institutions and collaborations.
+
+- @gcanasherrera acknowledges support through the [European Space Agency research fellowship programme](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships).
 
 <p align="center">
   <a href="http://www.esa.int/en">
@@ -91,6 +92,8 @@ The development of **cloe-org** software is proudly powered by the support of al
     <img src="logos/universityofwaterloo_logo_horiz_rgb_1.jpg" alt="University of Waterloo" height="70">
   </a>
 </p>
+
+*(Logos © belong to their respective institutions)* 
 
 ---
 
