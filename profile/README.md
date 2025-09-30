@@ -12,12 +12,12 @@ Our team previously contributed to the development of **CLOE** (Cosmology Likeli
 
 **Current list of cloe-org maintainers** include (in alphabetical order):
 
-- [G. Cañas-Herrera](https://github.com/gcanasherrera)
-- [P. Carrilho](https://github.com/PedroCarrilho)
-- [S. Casas](https://github.com/santiagocasas)
-- [M. Bonici](https://github.com/marcobonici)
-- [C. Moretti](https://github.com/chiaramoretti)
-- [A. Pezzotta](https://github.com/AndreaPezzotta)
+- [Dr. G. Cañas-Herrera](https://github.com/gcanasherrera)
+- [Dr. P. Carrilho](https://github.com/PedroCarrilho)
+- [Dr. S. Casas](https://github.com/santiagocasas)
+- [Dr. M. Bonici](https://github.com/marcobonici)
+- [Dr. C. Moretti](https://github.com/chiaramoretti)
+- [Dr. A. Pezzotta](https://github.com/AndreaPezzotta)
 
 ## 📂 Repositories
 
@@ -97,12 +97,12 @@ The development of **cloe-org** software is proudly powered by the support of al
     <img src="logos/logo-univ-leidenobservatory.png" alt="Leiden Observatory" height="70">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://uwaterloo.ca/astrophysics-centre/">
-    <img src="logos/universityofwaterloo_logo_horiz_rgb_1.jpg" alt="University of Waterloo" height="70">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.herts.ac.uk">
     <img src="logos/Black-Logo.png" alt=" University of Hertfordshire" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://uwaterloo.ca/astrophysics-centre/">
+    <img src="logos/universityofwaterloo_logo_horiz_rgb_1.jpg" alt="University of Waterloo" height="70">
   </a>
 </p>
 
