@@ -68,7 +68,7 @@ The development of **cloe-org** software is proudly powered by the support of al
 
 <p align="center">
   <a href="http://www.esa.int/en">
-    <img src="logos/ESA_logo_2020_Deep.png" alt="ESA" height="70">
+    <img src="logos/ESA_logo.png" alt="ESA" height="70">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://www.inaf.it/en">
