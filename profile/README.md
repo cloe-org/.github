@@ -10,6 +10,15 @@ We are a group of cosmologists, primarily members of the Euclid Consortium and o
 
 Our team previously contributed to the development of **CLOE** (Cosmology Likelihood for Observables in Euclid). Building on the expertise gained from that experience, we are now developing a new generation of CLOE-inspired software aimed at maximizing the scientific return of upcoming cosmological surveys. Our goal is to facilitate a seamless interface between theoretical predictions and data analysis, fostering accessibility and collaboration within the broader cosmology community.
 
+**Current list of cloe-org maintainers** include (in alphabetical order):
+
+- [Dr. G. Cañas-Herrera](https://github.com/gcanasherrera)
+- [Dr. P. Carrilho](https://github.com/PedroCarrilho)
+- [Dr. S. Casas](https://github.com/santiagocasas)
+- [Dr. M. Bonici](https://github.com/marcobonici)
+- [Dr. C. Moretti](https://github.com/chiaramoretti)
+- [Dr. A. Pezzotta](https://github.com/AndreaPezzotta)
+
 ## 📂 Repositories
 
 Our main repositories:
@@ -61,11 +70,54 @@ You can find the list of contributors in the README files of each repository. Th
 
 All our projects are licensed under MIT unless stated otherwise. Check the individual repository's license for more details.
 
-## ⭐ Support Us
+## ⭐ Supporting Partners  
 
-If you like what we're doing:
+The development of **cloe-org** software is proudly powered by the support of all around the world research institutions and collaborations.
 
-- 🌟 Star our repositories
-- 💬 Spread the word
-- 🚀 Contribute or collaborate
-- 📖 Use our codes and kindly cite our main publications.
+- [Dr. G. Cañas-Herrera](https://gcanasherrera.com) acknowledges support through the [European Space Agency research fellowship programme](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships).
+- This work was supported by the Agenzia Spaziale Italiana project "Attività scientifica per la missione Euclid – fase E ACCORDO ATTUATIVO n. 2024-10-HH.0".
+
+<p align="center">
+  <a href="http://www.esa.int/en">
+    <img src="logos/ESA_logo.png" alt="ESA" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.inaf.it/en">
+    <img src="logos/INAF.png" alt="INAF" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.ifpu.it">
+    <img src="logos/IFPU.png" alt="IFPU" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.inaf.it/en">
+    <img src="logos/observatorioastronomicodibrera.png" alt="Observatorio Astronomico di Brera" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.universiteitleiden.nl/en/science/astronomy">
+    <img src="logos/logo-univ-leidenobservatory.png" alt="Leiden Observatory" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.rwth-aachen.de">
+    <img src="logos/aachen2.png" alt="Rwth Aachen University" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.herts.ac.uk">
+    <img src="logos/Black-Logo.png" alt=" University of Hertfordshire" height="70">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://uwaterloo.ca/astrophysics-centre/">
+    <img src="logos/universityofwaterloo_logo_horiz_rgb_1.jpg" alt="University of Waterloo" height="70">
+  </a>
+</p>
+
+*(Logos © belong to their respective institutions)* 
+
+---
+
+✨ **Love our work? Here’s how you can help keep it growing:**  
+- 🌟 **Star** our repositories  
+- 💬 **Spread the word** in your network  
+- 🚀 **Contribute** with code, ideas, or collaborations  
+- 📖 **Use & cite** our software in your research  
+
