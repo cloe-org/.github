@@ -113,11 +113,10 @@ The development of **cloe-org** software is proudly powered by the support of al
 
 *(Logos © belong to their respective institutions)* 
 
----
-
 ## ✨ **Love our work? Here’s how you can help keep it growing:**  
 - 🌟 **Star** our repositories  
 - 💬 **Spread the word** in your network  
 - 🚀 **Contribute** with code, ideas, or collaborations  
 - 📖 **Use & cite** our software in your research  
 
+---
