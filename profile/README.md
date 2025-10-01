@@ -75,6 +75,7 @@ All our projects are licensed under MIT unless stated otherwise. Check the indiv
 The development of **cloe-org** software is proudly powered by the support of all around the world research institutions and collaborations.
 
 - [Dr. G. Cañas-Herrera](https://gcanasherrera.com) acknowledges support through the [European Space Agency research fellowship programme](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships).
+- This work was supported by the Agenzia Spaziale Italiana project "Attività scientifica per la missione Euclid – fase E ACCORDO ATTUATIVO n. 2024-10-HH.0".
 
 <p align="center">
   <a href="http://www.esa.int/en">
