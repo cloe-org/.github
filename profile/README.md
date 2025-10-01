@@ -99,7 +99,7 @@ The development of **cloe-org** software is proudly powered by the support of al
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.rwth-aachen.de">
-    <img src="logos/aachen.png" alt="Rwth Aachen University" height="70">
+    <img src="logos/aachen2.png" alt="Rwth Aachen University" height="70">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.herts.ac.uk">
