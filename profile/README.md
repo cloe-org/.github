@@ -12,10 +12,10 @@ Our team previously contributed to the development of **CLOE** (Cosmology Likeli
 
 **Current list of cloe-org maintainers** include (in alphabetical order):
 
+- [Dr. M. Bonici](https://github.com/marcobonici)
 - [Dr. G. Cañas-Herrera](https://github.com/gcanasherrera)
 - [Dr. P. Carrilho](https://github.com/PedroCarrilho)
 - [Dr. S. Casas](https://github.com/santiagocasas)
-- [Dr. M. Bonici](https://github.com/marcobonici)
 - [Dr. C. Moretti](https://github.com/chiaramoretti)
 - [Dr. A. Pezzotta](https://github.com/AndreaPezzotta)
 
