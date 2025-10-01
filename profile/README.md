@@ -97,7 +97,7 @@ The development of **cloe-org** software is proudly powered by the support of al
     <img src="logos/logo-univ-leidenobservatory.png" alt="Leiden Observatory" height="70">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">
+  <a href="https://www.rwth-aachen.de">
     <img src="logos/aachen.png" alt="Rwth Aachen University" height="70">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
