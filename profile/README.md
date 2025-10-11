@@ -1,8 +1,8 @@
 # cloe-org
-
+[![cloe-org DOI](https://zenodo.org/badge/946034859.svg)](https://doi.org/10.5281/zenodo.17329496)
 [![Contribution Guidelines](https://img.shields.io/badge/cloeorg-Collaboration_Guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/main/colprac)](https://github.com/cloe-org/.github/tree/main/colprac) 
 [![Code of Conduct](https://img.shields.io/badge/cloeorg-Code_of_Conduct-royalblue?link=https://github.com/cloe-org/.github/blob/main/conduct/CODE_OF_CONDUCT.md)](https://github.com/cloe-org/.github/blob/main/conduct/CODE_OF_CONDUCT.md)
-[![Zenodo](https://img.shields.io/badge/Zenodo-cloe--org-brightgreen.svg)](https://zenodo.org/communities/cloe-org/)
+[![Zenodo cloe-org community](https://img.shields.io/badge/Zenodo-cloe--org-brightgreen.svg)](https://zenodo.org/communities/cloe-org/)
 
 Welcome to the *cloe-org* GitHub organization — your hub for cosmological modeling and statistical inference focused on large-scale structure.
 
