@@ -28,6 +28,7 @@ Our main repositories:
 | [cloelib](https://github.com/cloe-org/cloelib) | Computation of the theoretical predictions for Euclid primary observables |
 | [cloelike](https://github.com/cloe-org/cloelike) | Euclid likelihood module for photometric and spectroscopic primary observables |
 | [playground](https://github.com/cloe-org/playground) | Tutorials, examples and DEMO notebooks |
+| [blindspot](https://github.com/cloe-org/blindspot) | Generation of blinding shifts for cosmological analyses |
 | [darkflipper](https://github.com/cloe-org/darkflipper) | Computation of Figure of Merit and Figure of Bias measurements |
 
 You can browse all our repositories [here](https://github.com/orgs/cloe-org/repositories).
