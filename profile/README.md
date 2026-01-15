@@ -10,14 +10,7 @@ We are a group of cosmologists, primarily members of the Euclid Consortium and o
 
 Our team previously contributed to the development of **CLOE** (Cosmology Likelihood for Observables in Euclid). Building on the expertise gained from that experience, we are now developing a new generation of CLOE-inspired software aimed at maximizing the scientific return of upcoming cosmological surveys. Our goal is to facilitate a seamless interface between theoretical predictions and data analysis, fostering accessibility and collaboration within the broader cosmology community.
 
-**Current list of cloe-org maintainers** include (in alphabetical order):
-
-- [Dr. M. Bonici](https://github.com/marcobonici)
-- [Dr. G. Cañas-Herrera](https://github.com/gcanasherrera)
-- [Dr. P. Carrilho](https://github.com/PedroCarrilho)
-- [Dr. S. Casas](https://github.com/santiagocasas)
-- [Dr. C. Moretti](https://github.com/chiaramoretti)
-- [Dr. A. Pezzotta](https://github.com/AndreaPezzotta)
+**Current list of cloe-org maintainers** are part of the @cloe-org/cloe-maintainers team.
 
 ## 📂 Repositories
 
@@ -75,7 +68,7 @@ All our projects are licensed under MIT unless stated otherwise. Check the indiv
 
 The development of **cloe-org** software is proudly powered by the support of all around the world research institutions and collaborations.
 
-- [Dr. G. Cañas-Herrera](https://gcanasherrera.com) acknowledges support through the [European Space Agency research fellowship programme](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships).
+- [Dr. G. Cañas-Herrera](https://gcanasherrera.com) acknowledges support through the [European Space Agency research fellowship programme](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships) and further acknowledges that this project is part of the project UNICORN with file number VI.Veni.242.110 of the research programme Talent Programme Veni Science domain 2024 which is (partly) financed by the Dutch Research Council (NWO) under the grant https://doi.org/10.61686/ZCPQI32997.
 - [Dr. C. Moretti](https://github.com/chiaramoretti) is supported by Agenzia Spaziale Italiana, project "Attività scientifica per la missione Euclid – fase E ACCORDO ATTUATIVO n. 2024-10-HH.0".
 
 <p align="center">
@@ -97,10 +90,6 @@ The development of **cloe-org** software is proudly powered by the support of al
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.universiteitleiden.nl/en/science/astronomy">
     <img src="logos/logo-univ-leidenobservatory.png" alt="Leiden Observatory" height="70">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.rwth-aachen.de">
-    <img src="logos/aachen2.png" alt="Rwth Aachen University" height="70">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.herts.ac.uk">
