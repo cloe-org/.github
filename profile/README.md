@@ -103,6 +103,8 @@ The development of **cloe-org** software is proudly powered by the support of al
 
 *(Logos © belong to their respective institutions)* 
 
+We also thank, in particular, [Leiden Observatory ICT group](https://www.universiteitleiden.nl/en/science/astronomy/organisation/computer-support-group), [GitHub Education](https://github.com/education), and [ReviewNB](https://www.reviewnb.com) for supporting these projects with infrastructure tools.
+
 ## ✨ **Love our work? Here’s how you can help keep it growing:**  
 - 🌟 **Star** our repositories  
 - 💬 **Spread the word** in your network  
