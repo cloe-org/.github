@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cloe-org/.github/blob/main/profile/logos/cloe-org-logo.png" alt="cloelike logo" width="500">
+  <img src="https://github.com/cloe-org/.github/blob/main/profile/logos/cloe-org-logo.png" alt="cloelike logo" width="400">
 </p>
 
 
