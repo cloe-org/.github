@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/cloe-org/.github/blob/main/profile/logos/cloe-org-logo.png" alt="cloelike logo" width="500">
+</p>
+
+
 # cloe-org
 [![cloe-org DOI](https://zenodo.org/badge/946034859.svg)](https://doi.org/10.5281/zenodo.17329496)
 [![Contribution Guidelines](https://img.shields.io/badge/cloeorg-Collaboration_Guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/main/colprac)](https://github.com/cloe-org/.github/tree/main/colprac) 
