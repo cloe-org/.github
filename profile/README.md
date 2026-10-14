@@ -8,7 +8,7 @@
 [![Contribution Guidelines](https://img.shields.io/badge/cloeorg-Collaboration_Guidelines-royalblue?link=https://github.com/cloe-org/.github/tree/main/colprac)](https://github.com/cloe-org/.github/tree/main/colprac) 
 [![Code of Conduct](https://img.shields.io/badge/cloeorg-Code_of_Conduct-royalblue?link=https://github.com/cloe-org/.github/blob/main/conduct/CODE_OF_CONDUCT.md)](https://github.com/cloe-org/.github/blob/main/conduct/CODE_OF_CONDUCT.md)
 [![Zenodo cloe-org community](https://img.shields.io/badge/Zenodo-cloe--org-brightgreen.svg)](https://zenodo.org/communities/cloe-org/)
-[![Org stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cloe-org/.github/main/badge/star-badge.json)](https://github.com/orgs/cloe-org/repositories)
+[![Org stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcloe-org%2F.github%2Fmain%2Fbadge%2Fstar-badge.json)](https://github.com/orgs/cloe-org/repositories)
 
 Welcome to the *cloe-org* GitHub organization — your hub for cosmological modeling and statistical inference focused on large-scale structure.
 
