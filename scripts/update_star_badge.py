@@ -17,7 +17,7 @@ def fetch_repositories(page):
     url = f"https://api.github.com/orgs/{ORG}/repos?type=public&per_page=100&page={page}"
     headers = {"Accept": "application/vnd.github+json", "User-Agent": "cloe-org-star-badge"}
     if TOKEN:
-        headers["Authorization"] = f"******"
+        headers["Authorization"] = "Bearer " + TOKEN
 
     request = Request(url, headers=headers)
     try:
