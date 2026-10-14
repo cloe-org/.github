@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_star_badge.py
+      - .github/workflows/update-star-badge.yml
 
 permissions:
   contents: write
@@ -17,6 +22,8 @@ jobs:
 
       - name: Update badge
         env:
+          # Needs read access to all org repos to count private ones; falls back to public only.
+          ORG_STARS_TOKEN: ${{ secrets.ORG_STARS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ORG: cloe-org
         run: python scripts/update_star_badge.py

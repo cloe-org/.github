@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Update the Shields.io endpoint payload with the organization's public stars."""
+"""Update the Shields.io endpoint payload with the stars of all the organization's repositories.
+
+Private repositories are only included when the token can see them. The default
+Actions ``GITHUB_TOKEN`` is scoped to this repository, so set ``ORG_STARS_TOKEN``
+to a token with read access to the organization's repository metadata.
+"""
 
 import json
 import os
@@ -9,12 +14,12 @@ from urllib.request import Request, urlopen
 
 
 ORG = os.environ.get("GITHUB_ORG", "cloe-org")
-TOKEN = os.environ.get("GITHUB_TOKEN")
+TOKEN = os.environ.get("ORG_STARS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 OUTPUT = Path(os.environ.get("STAR_BADGE_OUTPUT", "badge/star-badge.json"))
 
 
 def fetch_repositories(page):
-    url = f"https://api.github.com/orgs/{ORG}/repos?type=public&per_page=100&page={page}"
+    url = f"https://api.github.com/orgs/{ORG}/repos?type=all&per_page=100&page={page}"
     headers = {"Accept": "application/vnd.github+json", "User-Agent": "cloe-org-star-badge"}
     if TOKEN:
         headers["Authorization"] = "Bearer " + TOKEN
@@ -34,7 +39,10 @@ def main():
         repositories = fetch_repositories(page)
         if not repositories:
             break
-        stars += sum(repository["stargazers_count"] for repository in repositories)
+        for repository in repositories:
+            visibility = "private" if repository["private"] else "public"
+            print(f"{repository['name']} ({visibility}): {repository['stargazers_count']}")
+            stars += repository["stargazers_count"]
         page += 1
 
     badge = {
