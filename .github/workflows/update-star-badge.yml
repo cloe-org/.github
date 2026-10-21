@@ -2,13 +2,9 @@ name: Update organization star badge
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Once per month, on the 1st at 00:00 UTC.
+    - cron: "0 0 1 * *"
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - scripts/update_star_badge.py
-      - .github/workflows/update-star-badge.yml
 
 permissions:
   contents: write

@@ -26,9 +26,11 @@ Our main repositories:
 |-----------------|-------------|
 | [cloelib](https://github.com/cloe-org/cloelib) | Computation of the theoretical predictions for Euclid primary observables |
 | [cloelike](https://github.com/cloe-org/cloelike) | Euclid likelihood module for photometric and spectroscopic primary observables |
-| [playground](https://github.com/cloe-org/playground) | Tutorials, examples and DEMO notebooks |
-| [blindspot](https://github.com/cloe-org/blindspot) | Generation of blinding shifts for cosmological analyses (Currently private) |
+| [cloe-chain](https://github.com/cloe-org/cloe-chain) | YAML-configured exploration of posterior distributions using the observables and likelihoods of cloelib and cloelike |
+| [cloe-bench](https://github.com/cloe-org/cloe-bench) | Scientific validation of cloelib and cloelike large-scale structure observables |
 | [darkflipper](https://github.com/cloe-org/darkflipper) | Computation of statistical estimators such as p-values, Figures of Merit and Figures of Bias |
+| [playground](https://github.com/cloe-org/playground) | Tutorials, examples and DEMO notebooks |
+| [cloe-org-environments](https://github.com/cloe-org/cloe-org-environments) | Centralized mamba/conda environments for all cloe-org repositories and dependencies |
 
 You can browse all our repositories [here](https://github.com/orgs/cloe-org/repositories).
 
