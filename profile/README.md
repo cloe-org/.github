@@ -26,7 +26,7 @@ Our main repositories:
 |-----------------|-------------|
 | [cloelib](https://github.com/cloe-org/cloelib) | Computation of the theoretical predictions for Euclid primary observables |
 | [cloelike](https://github.com/cloe-org/cloelike) | Euclid likelihood module for photometric and spectroscopic primary observables |
-| [cloe-chain](https://github.com/cloe-org/cloe-chain) | YAML-configured exploration of posterior distributions using the observables and likelihoods of cloelib and cloelike |
+| [cloerun](https://github.com/cloe-org/cloerun) | YAML-configured exploration of posterior distributions using the observables and likelihoods of cloelib and cloelike |
 | [cloe-bench](https://github.com/cloe-org/cloe-bench) | Scientific validation of cloelib and cloelike large-scale structure observables |
 | [darkflipper](https://github.com/cloe-org/darkflipper) | Computation of statistical estimators such as p-values, Figures of Merit and Figures of Bias |
 | [playground](https://github.com/cloe-org/playground) | Tutorials, examples and DEMO notebooks |
